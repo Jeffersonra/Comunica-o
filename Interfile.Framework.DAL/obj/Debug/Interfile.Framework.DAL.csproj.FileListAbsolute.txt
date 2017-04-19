@@ -1,0 +1,14 @@
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.DAL.dll.config
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.DAL.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.DAL.pdb
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\EntityFramework.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.Interfaces.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.Model.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.Interfaces.pdb
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\Interfile.Framework.Model.pdb
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\EntityFramework.xml
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\obj\Debug\Interfile.Framework.DAL.csprojResolveAssemblyReference.cache
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\obj\Debug\Interfile.Framework.DAL.dll
+C:\Users\mt15160\Source\Workspaces\Interfile Framework\Interfile.Framework.DAL\obj\Debug\Interfile.Framework.DAL.pdb

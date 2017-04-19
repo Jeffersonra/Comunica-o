@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Interfile.Framework.Services.Communication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZenviaLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">interfile</Value>
+    </Setting>
+    <Setting Name="ZenviaPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2O991d2QOk</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

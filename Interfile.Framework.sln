@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Model", "Interfile.Framework.Model\Interfile.Framework.Model.csproj", "{D41D6709-5259-410C-9043-C568DEFE189E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Services.Communication", "Interfile.Framework.Services.Communication\Interfile.Framework.Services.Communication.csproj", "{8F6B9F03-3FE4-48F7-AAF5-BACCF8700956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Util", "Interfile.Framework.Util\Interfile.Framework.Util.csproj", "{5763D778-8FB0-43AC-BC90-A7E6FFA0773E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.DAL", "Interfile.Framework.DAL\Interfile.Framework.DAL.csproj", "{28588A37-DA61-490E-90E6-5AC5E039912B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Tests", "Interfile.Framework.Tests\Interfile.Framework.Tests.csproj", "{623320C0-5C53-4E1A-BE0C-AEBBF31238C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Communication.BLL", "Interfile.Framework.BLL\Interfile.Framework.Communication.BLL.csproj", "{AC003956-124D-410E-B2F2-4B023D867BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Services.Image", "Interfile.Framework.Services.Image\Interfile.Framework.Services.Image.csproj", "{C41D4080-260F-4EE4-8F62-CDDEDC072867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Image.BLL", "Interfile.Framework.Image.BLL\Interfile.Framework.Image.BLL.csproj", "{D904AEAA-87AC-4DFA-BB34-699AE439104B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfile.Framework.Interfaces", "Interfile.Framework.Interfaces\Interfile.Framework.Interfaces.csproj", "{471C878F-DC02-41EC-A1FE-D358DEFA356A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D41D6709-5259-410C-9043-C568DEFE189E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41D6709-5259-410C-9043-C568DEFE189E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41D6709-5259-410C-9043-C568DEFE189E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41D6709-5259-410C-9043-C568DEFE189E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6B9F03-3FE4-48F7-AAF5-BACCF8700956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6B9F03-3FE4-48F7-AAF5-BACCF8700956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6B9F03-3FE4-48F7-AAF5-BACCF8700956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6B9F03-3FE4-48F7-AAF5-BACCF8700956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5763D778-8FB0-43AC-BC90-A7E6FFA0773E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5763D778-8FB0-43AC-BC90-A7E6FFA0773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5763D778-8FB0-43AC-BC90-A7E6FFA0773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5763D778-8FB0-43AC-BC90-A7E6FFA0773E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28588A37-DA61-490E-90E6-5AC5E039912B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28588A37-DA61-490E-90E6-5AC5E039912B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28588A37-DA61-490E-90E6-5AC5E039912B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28588A37-DA61-490E-90E6-5AC5E039912B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623320C0-5C53-4E1A-BE0C-AEBBF31238C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623320C0-5C53-4E1A-BE0C-AEBBF31238C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623320C0-5C53-4E1A-BE0C-AEBBF31238C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623320C0-5C53-4E1A-BE0C-AEBBF31238C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC003956-124D-410E-B2F2-4B023D867BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC003956-124D-410E-B2F2-4B023D867BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC003956-124D-410E-B2F2-4B023D867BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC003956-124D-410E-B2F2-4B023D867BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41D4080-260F-4EE4-8F62-CDDEDC072867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D4080-260F-4EE4-8F62-CDDEDC072867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D4080-260F-4EE4-8F62-CDDEDC072867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D4080-260F-4EE4-8F62-CDDEDC072867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D904AEAA-87AC-4DFA-BB34-699AE439104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D904AEAA-87AC-4DFA-BB34-699AE439104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D904AEAA-87AC-4DFA-BB34-699AE439104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D904AEAA-87AC-4DFA-BB34-699AE439104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471C878F-DC02-41EC-A1FE-D358DEFA356A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471C878F-DC02-41EC-A1FE-D358DEFA356A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471C878F-DC02-41EC-A1FE-D358DEFA356A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471C878F-DC02-41EC-A1FE-D358DEFA356A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tbsfs07v:8080/tfs/interfile
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Interfile.Framework.Model\\Interfile.Framework.Model.csproj
+		SccProjectName1 = Interfile.Framework.Model
+		SccLocalPath1 = Interfile.Framework.Model
+		SccProjectUniqueName2 = Interfile.Framework.Services.Communication\\Interfile.Framework.Services.Communication.csproj
+		SccProjectName2 = Interfile.Framework.Services.Communication
+		SccLocalPath2 = Interfile.Framework.Services.Communication
+		SccProjectUniqueName3 = Interfile.Framework.Util\\Interfile.Framework.Util.csproj
+		SccProjectName3 = Interfile.Framework.Util
+		SccLocalPath3 = Interfile.Framework.Util
+		SccProjectUniqueName4 = Interfile.Framework.DAL\\Interfile.Framework.DAL.csproj
+		SccProjectName4 = Interfile.Framework.DAL
+		SccLocalPath4 = Interfile.Framework.DAL
+		SccProjectUniqueName5 = Interfile.Framework.Tests\\Interfile.Framework.Tests.csproj
+		SccProjectName5 = Interfile.Framework.Tests
+		SccLocalPath5 = Interfile.Framework.Tests
+		SccProjectUniqueName6 = Interfile.Framework.BLL\\Interfile.Framework.Communication.BLL.csproj
+		SccProjectName6 = Interfile.Framework.BLL
+		SccLocalPath6 = Interfile.Framework.BLL
+		SccProjectUniqueName7 = Interfile.Framework.Services.Image\\Interfile.Framework.Services.Image.csproj
+		SccProjectName7 = Interfile.Framework.Services.Image
+		SccLocalPath7 = Interfile.Framework.Services.Image
+		SccProjectUniqueName8 = Interfile.Framework.Image.BLL\\Interfile.Framework.Image.BLL.csproj
+		SccProjectName8 = Interfile.Framework.Image.BLL
+		SccLocalPath8 = Interfile.Framework.Image.BLL
+		SccProjectUniqueName9 = Interfile.Framework.Interfaces\\Interfile.Framework.Interfaces.csproj
+		SccProjectName9 = Interfile.Framework.Interfaces
+		SccLocalPath9 = Interfile.Framework.Interfaces
+	EndGlobalSection
+EndGlobal
